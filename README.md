@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Mihir 👋
 
-<!--
-**Mihir-Krishna/Mihir-Krishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 4th year Computer Science student aspiring to become a Full-Stack Developer and also work in Robotics technologies, particularly in ROS(ROBOT OPERATING SYSTEM). I specialize in JavaScript, TypeScript, Elixir, and C++, and am always eager to learn and collaborate on new projects.
 
-Here are some ideas to get you started:
+🛠️ Technologies & Tools
+Languages: JavaScript, TypeScript, Elixir, C++
+Frameworks & Libraries: React.js, Next.js, Express.js, 
+Robotics: ROS
+Tools: GitHub, Postman
+Databases: MongoDB, Redis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contact Me
+Phone: +91 8938841372
+Email: mihir.krishna.contact@gmail.com
+X: https://x.com/LuomxhaJiqiren
+LinkedIn: https://www.linkedin.com/in/mihir-krishna/
+
