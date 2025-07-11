@@ -1,4 +1,4 @@
-Hi, I'm Mihir 👋
+Hi, I'm Mihir 👋(ENGLISH & SPANISH)
 
 I'm a 4th year Computer Science student aspiring to become a Full-Stack Developer and also work in Robotics technologies, particularly in ROS(ROBOT OPERATING SYSTEM). I specialize in JavaScript, TypeScript, Elixir, and C++, and am always eager to learn and collaborate on new projects.
 
